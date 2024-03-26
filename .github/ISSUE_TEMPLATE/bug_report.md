@@ -26,7 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Version [e.g. 22]
- - Unity Version: [e.g. 2022.1.6f]
+ - Unity Version [e.g. 2022.1.7f]
 
 **Additional context**
 Add any other context about the problem here.
